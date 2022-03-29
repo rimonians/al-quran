@@ -31,9 +31,9 @@ export const fetchAyats = () => {
     try {
       dispatch(fetchAyatsRequest());
       const urls = [
-        axios.get("http://localhost:3000/data/quran_ar.json"),
-        axios.get("http://localhost:3000/data/quran_bn.json"),
-        axios.get("http://localhost:3000/data/quran_en.json"),
+        axios.get("https://rimonians-al-quran.netlify.app/data/quran_ar.json"),
+        axios.get("https://rimonians-al-quran.netlify.app/data/quran_bn.json"),
+        axios.get("https://rimonians-al-quran.netlify.app/data/quran_en.json"),
       ];
       const response = await Promise.all(urls);
       const dataset = response.map((el) => el.data);

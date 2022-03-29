@@ -31,7 +31,7 @@ export const fetchSura = () => {
     try {
       dispatch(fetchSuraRequest());
       const response = await axios.get(
-        "http://localhost:3000/data/sura_info.json"
+        "https://rimonians-al-quran.netlify.app/data/sura_info.json"
       );
       dispatch(fetchSuraSuccess(response.data));
     } catch (err) {
