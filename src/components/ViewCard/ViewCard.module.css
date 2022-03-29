@@ -1,0 +1,35 @@
+.viewCard {
+  box-shadow: 0 0 3px rgba(0, 0, 0, 0.3);
+  padding: 1rem;
+  border-radius: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+.viewCardTop {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.bookmark {
+  color: dodgerblue;
+  cursor: pointer;
+}
+.viewCardTop h4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: dodgerblue;
+  color: #fff;
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+}
+.viewCardBody {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+.viewCardBody .bn {
+  font-size: 0.9rem;
+}

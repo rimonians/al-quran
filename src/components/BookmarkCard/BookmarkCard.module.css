@@ -1,0 +1,49 @@
+.bookmarkCard {
+  box-shadow: 0 0 3px rgba(0, 0, 0, 0.3);
+  padding: 1rem;
+  border-radius: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+.bookmarkCardTop {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.bookmarkCardBody {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+.bookmarkCardTop h4 {
+  color: dodgerblue;
+  cursor: pointer;
+}
+.bookmarkCardBody .bn {
+  font-size: 0.9rem;
+}
+.bookmarkCardBottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.bookmarkCardBottom p {
+  font-size: 0.8rem;
+  color: #555;
+}
+.bookmarkCardBottom a {
+  background: dodgerblue;
+  color: #fff;
+  padding: 0.2rem 1rem;
+  border-radius: 0.5rem;
+  text-transform: capitalize;
+}
+
+@media (max-width: 425px) {
+  .bookmarkCardBottom {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.5rem;
+  }
+}

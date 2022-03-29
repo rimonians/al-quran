@@ -1,0 +1,16 @@
+.searchControll {
+  margin-top: 1rem;
+}
+.searchControll input {
+  width: 100%;
+  padding: 0.8rem;
+  border-radius: 0.5rem;
+  border: none;
+  box-shadow: 0 0 3px rgba(0, 0, 0, 0.3);
+  font-weight: 600;
+  transition: 0.3s;
+}
+
+.searchControll input:focus {
+  box-shadow: 0 0 3px rgba(30, 143, 255, 0.699);
+}

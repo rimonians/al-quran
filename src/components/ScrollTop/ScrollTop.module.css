@@ -1,0 +1,9 @@
+.scrollTop {
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
+  font-size: 1.5rem;
+  cursor: pointer;
+  color: dodgerblue;
+  z-index: 9999;
+}
