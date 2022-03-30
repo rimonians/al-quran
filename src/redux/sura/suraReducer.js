@@ -41,8 +41,7 @@ const suraReducer = (state = initialSuraState, action) => {
             .includes(action.payload.toLowerCase().trim()) ||
           item.translation
             .toLowerCase()
-            .includes(action.payload.toLowerCase().trim()) ||
-          item.type.toLowerCase().includes(action.payload.toLowerCase().trim())
+            .includes(action.payload.toLowerCase().trim())
       );
       return { ...state, filtered: filteredSura };
     default:

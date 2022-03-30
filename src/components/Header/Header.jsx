@@ -14,12 +14,12 @@ const Header = () => {
       <div className={classes.logo}>
         <Link to="/">
           <FaQuran />
-          <span>Al Quran</span>
+          <span>আল-কোরান</span>
         </Link>
       </div>
       <div className={classes.links}>
         <Link to="/bookmark">
-          <BsFillJournalBookmarkFill /> Bookmark ({numbering(bookmark.length)})
+          <BsFillJournalBookmarkFill /> বুকমার্ক ({numbering(bookmark.length)})
         </Link>
       </div>
     </div>

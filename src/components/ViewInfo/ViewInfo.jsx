@@ -2,6 +2,7 @@ import React from "react";
 import classes from "./ViewInfo.module.css";
 import { motion } from "framer-motion";
 import numbering from "../../utils/numbering";
+import isMeccan from "../../utils/isMeccan";
 
 const ViewInfo = ({ info }) => {
   return (
@@ -17,9 +18,9 @@ const ViewInfo = ({ info }) => {
         <h3>{info.transliteration}</h3>
       </div>
       <div className={classes.viewInfoBottom}>
-        <p>Sura No : {numbering(info.id)}</p>
-        <p>Total Ayats : {numbering(info.total_verses)}</p>
-        <p>{info.type}</p>
+        <p>সূরা নং : {numbering(info.id)}</p>
+        <p>সর্বোমোট আয়াত : {numbering(info.total_verses)}</p>
+        <p>{isMeccan(info.type)}</p>
       </div>
     </motion.div>
   );

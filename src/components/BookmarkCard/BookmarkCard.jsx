@@ -16,13 +16,13 @@ const BookmarkCard = ({ bookmark }) => {
 
   const handleRemoveBookmark = () => {
     dispatch(removeBookmark(removeBookmarkPayload));
-    toast.error("Item successfully removed from bookmark list");
+    toast.error("সফলভাবে বুকমার্ক থেকে সড়ানো হয়েছে");
   };
 
   return (
     <div className={classes.bookmarkCard}>
       <div className={classes.bookmarkCardTop}>
-        <h4>Sura no : {numbering(bookmark.sura)}</h4>
+        <h4>সূরা নং : {numbering(bookmark.sura)}</h4>
         <h4>
           <BsBookmarkXFill onClick={handleRemoveBookmark} />
         </h4>
@@ -34,10 +34,10 @@ const BookmarkCard = ({ bookmark }) => {
       </div>
       <div className={classes.bookmarkCardBottom}>
         <p>
-          Bookmarked from sura - {bookmark.arName} / {bookmark.bnName} /
-          {bookmark.enName} - Ayat no : {numbering(bookmark.ayat)}
+          {bookmark.arName} / {bookmark.bnName} /
+          {bookmark.enName} - থেকে বুকমার্ক করা হয়েছে - আয়াত নং : {numbering(bookmark.ayat)}
         </p>
-        <Link to={`/view/${bookmark.sura}`}>Read full sura</Link>
+        <Link to={`/view/${bookmark.sura}`}>সম্পূর্ন সূরা পড়ুন</Link>
       </div>
     </div>
   );

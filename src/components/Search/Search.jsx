@@ -8,14 +8,14 @@ const Search = () => {
   useEffect(() => {
     dispatch(suraSearch(""));
   }, [dispatch]);
-  
+
   return (
     <div className={classes.searchControll}>
       <input
         type="text"
         spellCheck="false"
         autoComplete="off"
-        placeholder="Search sura by name id or ayat no"
+        placeholder="নাম বা নম্বর দিয়ে সূরা খুঁজুন"
         onChange={(e) => dispatch(suraSearch(e.target.value))}
       />
     </div>

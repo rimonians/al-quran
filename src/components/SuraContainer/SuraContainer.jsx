@@ -14,7 +14,7 @@ const SuraContainer = () => {
       {!loading && !err && <Search />}
       <AnimateSharedLayout>
         <motion.div layout className={classes.suraContainer}>
-          {loading && <p>Loading...</p>}
+          {loading && <p>লোড হচ্ছে...</p>}
           {err && <p>{err}</p>}
           {!loading &&
             !err &&

@@ -3,6 +3,7 @@ import classes from "./SuraCard.module.css";
 import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
 import numbering from "../../utils/numbering";
+import isMeccan from "../../utils/isMeccan";
 
 const SuraCard = ({ sura }) => {
   return (
@@ -15,7 +16,7 @@ const SuraCard = ({ sura }) => {
     >
       <div className={classes.suraCardTop}>
         <h4>{numbering(sura.id)}</h4>
-        <p>Total verses : {numbering(sura.total_verses)}</p>
+        <p>সর্বোমােট আয়াত : {numbering(sura.total_verses)}</p>
       </div>
       <div className={classes.suraCardBody}>
         <p>{sura.name}</p>
@@ -23,8 +24,8 @@ const SuraCard = ({ sura }) => {
         <p>{sura.translation}</p>
       </div>
       <div className={classes.suraCardBottom}>
-        <p>{sura.type}</p>
-        <Link to={`/view/${sura.id}`}>View</Link>
+        <p>{isMeccan(sura.type)}</p>
+        <Link to={`/view/${sura.id}`}>পড়ুন</Link>
       </div>
     </motion.div>
   );

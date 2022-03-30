@@ -23,7 +23,7 @@ const ViewCard = ({ verse, info }) => {
 
   const handleAddBookmark = () => {
     dispatch(addBookmark(bookmarkPayload));
-    toast.success("Item successfully added on bookmark list");
+    toast.success("সফলভাবে বুকমার্ক করা হয়েছে");
   };
 
   return (

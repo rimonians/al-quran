@@ -4,7 +4,7 @@ import classes from "./NotFound.module.css";
 const NotFound = () => {
   return (
     <div className={classes.notFound}>
-      <p>Sorry your requested page wasn't found</p>
+      <p>আপনার অনুরোধকৃত পেইজটি পাওয়া যায়নি</p>
     </div>
   );
 };

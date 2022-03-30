@@ -48,7 +48,7 @@ const ViewContainer = () => {
     <>
       {Object.keys(info).length !== 0 && <ViewInfo info={info} />}
       <div className={classes.viewContainer}>
-        {loading && <p>Loading...</p>}
+        {loading && <p>লোড হচ্ছে...</p>}
         {err && <p>{err}</p>}
         {!loading &&
           !err &&

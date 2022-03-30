@@ -1,12 +1,16 @@
-import React from "react";
+import React, { useEffect } from "react";
 import classes from "./Home.module.css";
 import Heading from "../../components/Heading/Heading";
 import SuraContainer from "../../components/SuraContainer/SuraContainer";
+import scrollTop from "../../utils/scrollTop";
 
 const Home = () => {
+  useEffect(() => {
+    scrollTop();
+  }, []);
   return (
     <div className={classes.wrapper}>
-      <Heading>All Sura Lists</Heading>
+      <Heading>সূরার তালিকা</Heading>
       <SuraContainer />
     </div>
   );

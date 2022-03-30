@@ -1,13 +1,11 @@
 import React from "react";
 import classes from "./ScrollTop.module.css";
 import { BsJournalArrowUp } from "react-icons/bs";
+import scrollTop from "../../utils/scrollTop";
 
 const ScrollTop = () => {
-  const handleScrollTop = () => {
-    window.scrollTo(0, 0);
-  };
   return (
-    <div className={classes.scrollTop} onClick={handleScrollTop}>
+    <div className={classes.scrollTop} onClick={scrollTop}>
       <BsJournalArrowUp />
     </div>
   );
