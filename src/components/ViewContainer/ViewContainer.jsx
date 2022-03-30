@@ -7,17 +7,24 @@ import ViewInfo from "../ViewInfo/ViewInfo";
 import ViewCard from "../ViewCard/ViewCard";
 
 const ViewContainer = () => {
+  const [loading,setLoading] = useState(true);
+  const [err,setErr] = useState("");
   const [info, setInfo] = useState({});
   const [verses, setVerses] = useState([]);
   const ayatsState = useSelector((state) => state.ayats);
   const dispatch = useDispatch();
   const params = useParams();
-  const { loading, ayats, filtered, err } = ayatsState;
+  const { ayats, filtered} = ayatsState;
   const { id } = params;
 
   useEffect(() => {
-    if (ayats.length !== 0) {
-      dispatch(ayatsSearch(id));
+    if(id<1 || id>114){
+     setLoading(false);
+     setErr("সম্ভবত আপনি সঠিক সূরা নং দেন নি");
+    }else{
+      if (ayats.length !== 0) {
+       dispatch(ayatsSearch(id));
+     }
     }
   }, [dispatch, ayats, id]);
 
