@@ -24,6 +24,8 @@ const ViewContainer = () => {
     }else{
       if (ayats.length !== 0) {
        dispatch(ayatsSearch(id));
+       setLoading(false);
+       setErr("");
      }
     }
   }, [dispatch, ayats, id]);
