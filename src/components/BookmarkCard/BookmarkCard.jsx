@@ -28,7 +28,7 @@ const BookmarkCard = ({ bookmark }) => {
         </h4>
       </div>
       <div className={classes.bookmarkCardBody}>
-        <p>{bookmark.ar}</p>
+        <p className={classes.rtl}>{bookmark.ar}</p>
         <p className={classes.bn}>{bookmark.bn}</p>
         <p>{bookmark.en}</p>
       </div>
