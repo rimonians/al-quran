@@ -16,6 +16,9 @@
   flex-direction: column;
   gap: 0.5rem;
 }
+.bookmarkCardBody .rtl{
+  direction:rtl;
+}
 .bookmarkCardTop h4 {
   color: dodgerblue;
   cursor: pointer;
