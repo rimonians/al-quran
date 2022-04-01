@@ -19,7 +19,7 @@ const SuraCard = ({ sura }) => {
         <p>সর্বোমােট আয়াত : {numbering(sura.total_verses)}</p>
       </div>
       <div className={classes.suraCardBody}>
-        <p>{sura.name}</p>
+        <p className={classes.rtl}>{sura.name}</p>
         <p>{sura.transliteration}</p>
         <p>{sura.translation}</p>
       </div>
