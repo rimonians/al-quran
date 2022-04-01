@@ -30,6 +30,9 @@
   flex-direction: column;
   gap: 0.5rem;
 }
+.viewCardBody .ar{
+  direction:rtl;
+}
 .viewCardBody .bn {
   font-size: 0.9rem;
 }
