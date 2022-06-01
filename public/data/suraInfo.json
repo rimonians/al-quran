@@ -1,0 +1,1142 @@
+[
+  {
+    "suraNo": 1,
+    "ar": "سورة الفاتحة",
+    "en": "Al-Fatiha",
+    "bn": "আল-ফাতিহা",
+    "enMeaning": "The Opening",
+    "bnMeaning": "সূচনা",
+    "place": "মাক্কী",
+    "totalAyat": 7
+  },
+  {
+    "suraNo": 2,
+    "ar": "سورة البقرة",
+    "en": "Al-Baqara",
+    "bn": "আল-বাকারা",
+    "enMeaning": "The Calf, The Cow",
+    "bnMeaning": "বকনা-বাছুর",
+    "place": "মাদানী",
+    "totalAyat": 286
+  },
+  {
+    "suraNo": 3,
+    "ar": "سورة آل عمران",
+    "en": "Al-i-Imran",
+    "bn": "আলে-ইমরান",
+    "enMeaning": "The Family of Imraan, The House of ʿImrān",
+    "bnMeaning": "ইমরানের পরিবার",
+    "place": "মাদানী",
+    "totalAyat": 200
+  },
+  {
+    "suraNo": 4,
+    "ar": "سورة النساء",
+    "en": "An-Nisa",
+    "bn": "আন-নিসা",
+    "enMeaning": "The Women",
+    "bnMeaning": "মহিলা",
+    "place": "মাদানী",
+    "totalAyat": 176
+  },
+  {
+    "suraNo": 5,
+    "ar": "سورة المائدة",
+    "en": "Al-Ma'ida",
+    "bn": "আল-মায়েদা",
+    "enMeaning": "The Food, The Repast, The Table",
+    "bnMeaning": "খাদ্য পরিবেশিত টেবিল",
+    "place": "মাদানী",
+    "totalAyat": 120
+  },
+  {
+    "suraNo": 6,
+    "ar": "سورة الأنعام",
+    "en": "Al-An'am",
+    "bn": "আল-আন'আম",
+    "enMeaning": "The Cattle",
+    "bnMeaning": "গৃৃহপালিত পশু",
+    "place": "মাক্কী",
+    "totalAyat": 165
+  },
+  {
+    "suraNo": 7,
+    "ar": "سورة الأعراف",
+    "en": "Al-A'raf",
+    "bn": "আল-আ'রাফ",
+    "enMeaning": "The Heights, The Faculty of Discernment",
+    "bnMeaning": "উচু স্থানসমূহ",
+    "place": "মাক্কী",
+    "totalAyat": 206
+  },
+  {
+    "suraNo": 8,
+    "ar": "سورة الأنفال",
+    "en": "Al-Anfal",
+    "bn": "আল-আনফাল",
+    "enMeaning": "The Spoils of War",
+    "bnMeaning": "যুদ্ধে-লব্ধ ধনসম্পদ",
+    "place": "মাদানী",
+    "totalAyat": 75
+  },
+  {
+    "suraNo": 9,
+    "ar": "سورة التوبة",
+    "en": "At-Tawba",
+    "bn": "আত-তাওবা",
+    "enMeaning": "The Repentance",
+    "bnMeaning": "অনুশোচনা",
+    "place": "মাদানী",
+    "totalAyat": 129
+  },
+  {
+    "suraNo": 10,
+    "ar": "سورة يونس",
+    "en": "Yunus",
+    "bn": "ইউনুস",
+    "enMeaning": "Prophet Yunus",
+    "bnMeaning": "নবী ইউনুস (আ.)",
+    "place": "মাক্কী",
+    "totalAyat": 109
+  },
+  {
+    "suraNo": 11,
+    "ar": "سورة هود",
+    "en": "Hud",
+    "bn": "হূদ",
+    "enMeaning": "Prophet Hud",
+    "bnMeaning": "নবী হুদ",
+    "place": "মাক্কী",
+    "totalAyat": 123
+  },
+  {
+    "suraNo": 12,
+    "ar": "سورة يوسف",
+    "en": "Yusuf",
+    "bn": "ইউসুফ",
+    "enMeaning": "Prophet Yusuf",
+    "bnMeaning": "নবী ইউসুফ (আ.)",
+    "place": "মাক্কী",
+    "totalAyat": 111
+  },
+  {
+    "suraNo": 13,
+    "ar": "سورة الرعد",
+    "en": "Ar-Ra'd",
+    "bn": "আর-রাদ",
+    "enMeaning": "The Thunder",
+    "bnMeaning": "বজ্রনাদ",
+    "place": "মাদানী",
+    "totalAyat": 43
+  },
+  {
+    "suraNo": 14,
+    "ar": "سورة ابراهيم",
+    "en": "Ibrahim",
+    "bn": "ইবরাহীম",
+    "enMeaning": "Prophet Ibrahim",
+    "bnMeaning": "নবী ইব্রাহিম (আ.)",
+    "place": "মাক্কী",
+    "totalAyat": 52
+  },
+  {
+    "suraNo": 15,
+    "ar": "سورة الحجر",
+    "en": "Al-Hijr",
+    "bn": "আল-হিজর",
+    "enMeaning": "The Rocky Tract, The Stoneland, The Rock City, Al-Hijr",
+    "bnMeaning": "পাথুরে পাহাড়",
+    "place": "মাক্কী",
+    "totalAyat": 99
+  },
+  {
+    "suraNo": 16,
+    "ar": "سورة النحل",
+    "en": "An-Nahl",
+    "bn": "আন-নাহাল",
+    "enMeaning": "The Honey Bees, The Bee",
+    "bnMeaning": "মৌমাছি",
+    "place": "মাক্কী",
+    "totalAyat": 128
+  },
+  {
+    "suraNo": 17,
+    "ar": "سورة الإسراء",
+    "en": "Al-Isra",
+    "bn": "আল-ইসরা (বনী-ইসরাঈল)",
+    "enMeaning": "The Night Journey",
+    "bnMeaning": "রাতের সফর (ইসরায়েলের সন্তানগণ [ইহুদী জাতি])",
+    "place": "মাক্কী",
+    "totalAyat": 111
+  },
+  {
+    "suraNo": 18,
+    "ar": "سورة الكهف",
+    "en": "Al-Kahf",
+    "bn": "আল-কাহফ",
+    "enMeaning": "The Cave",
+    "bnMeaning": "গুহা",
+    "place": "মাক্কী",
+    "totalAyat": 110
+  },
+  {
+    "suraNo": 19,
+    "ar": "سورة مريم",
+    "en": "Maryam",
+    "bn": "মারইয়াম",
+    "enMeaning": "Maryam (Mother of Prophet Isa)",
+    "bnMeaning": "মারিয়াম [নবী ঈসা (আ.) এর মা]",
+    "place": "মাক্কী",
+    "totalAyat": 98
+  },
+  {
+    "suraNo": 20,
+    "ar": "سورة طه",
+    "en": "Ta-Ha",
+    "bn": "ত্ব-হা",
+    "enMeaning": "Ṭāʾ Hāʾ",
+    "bnMeaning": "ত্বোয়া-হা",
+    "place": "মাক্কী",
+    "totalAyat": 135
+  },
+  {
+    "suraNo": 21,
+    "ar": "سورة الأنبياء",
+    "en": "Al-Anbiya",
+    "bn": "আল-আম্বিয়া",
+    "enMeaning": "The Prophets",
+    "bnMeaning": "নবীগণ",
+    "place": "মাক্কী",
+    "totalAyat": 112
+  },
+  {
+    "suraNo": 22,
+    "ar": "سورة الحج",
+    "en": "Al-Hajj",
+    "bn": "আল-হজ্জ",
+    "enMeaning": "The Pilgrimage, The Hajj",
+    "bnMeaning": "হজ্জ (হজ)",
+    "place": "মাদানী",
+    "totalAyat": 78
+  },
+  {
+    "suraNo": 23,
+    "ar": "سورة المؤمنون",
+    "en": "Al-Mu'minun",
+    "bn": "আল-মুমিনুন",
+    "enMeaning": "The Believers",
+    "bnMeaning": "বিশ্বাসীগণ",
+    "place": "মাক্কী",
+    "totalAyat": 118
+  },
+  {
+    "suraNo": 24,
+    "ar": "سورة النور",
+    "en": "An-Nur",
+    "bn": "আন-নূর",
+    "enMeaning": "The Light",
+    "bnMeaning": "আলো,জ্যোতি",
+    "place": "মাদানী",
+    "totalAyat": 64
+  },
+  {
+    "suraNo": 25,
+    "ar": "سورة الفرقان",
+    "en": "Al-Furqan",
+    "bn": "আল-ফুরকান",
+    "enMeaning": "The Criterion, The Standard, The Standard of True and False",
+    "bnMeaning": "সত্য মিথ্যার পার্থক্য নির্ধারণকারী গ্রন্থ",
+    "place": "মাক্কী",
+    "totalAyat": 77
+  },
+  {
+    "suraNo": 26,
+    "ar": "سورة الشعراء",
+    "en": "Ash-Shu'ara",
+    "bn": "আশ-শুআ'রা",
+    "enMeaning": "The Poets",
+    "bnMeaning": "কবিগণ",
+    "place": "মাক্কী",
+    "totalAyat": 227
+  },
+  {
+    "suraNo": 27,
+    "ar": "سورة النمل",
+    "en": "An-Naml",
+    "bn": "আন-নামাল",
+    "enMeaning": "The Ant, The Ants",
+    "bnMeaning": "পিপীলিকা (পিঁপড়া)",
+    "place": "মাক্কী",
+    "totalAyat": 93
+  },
+  {
+    "suraNo": 28,
+    "ar": "سورة القصص",
+    "en": "Al-Qasas",
+    "bn": "আল-কাসাস",
+    "enMeaning": "The Narrations, The Stories, The Story",
+    "bnMeaning": "ঘটনা,কাহিনী",
+    "place": "মাক্কী",
+    "totalAyat": 88
+  },
+  {
+    "suraNo": 29,
+    "ar": "سورة العنكبوت",
+    "en": "Al-Ankabut",
+    "bn": "আল-আনকাবূত",
+    "enMeaning": "The Spider",
+    "bnMeaning": "মাকড়সা",
+    "place": "মাক্কী",
+    "totalAyat": 69
+  },
+  {
+    "suraNo": 30,
+    "ar": "سورة الروم",
+    "en": "Ar-Rum",
+    "bn": "আর-রুম",
+    "enMeaning": "Rome, Byzantium",
+    "bnMeaning": "রোমান জাতি",
+    "place": "মাক্কী",
+    "totalAyat": 60
+  },
+  {
+    "suraNo": 31,
+    "ar": "سورة لقمان",
+    "en": "Luqman",
+    "bn": "লুকমান",
+    "enMeaning": "Luqman",
+    "bnMeaning": "একজন জ্ঞানী ব্যক্তি",
+    "place": "মাক্কী",
+    "totalAyat": 34
+  },
+  {
+    "suraNo": 32,
+    "ar": "سورة السجدة",
+    "en": "As-Sajda",
+    "bn": "আস-সাজদাহ",
+    "enMeaning": "The Prostration, Worship, Adoration",
+    "bnMeaning": "সিজদাহ",
+    "place": "মাক্কী",
+    "totalAyat": 30
+  },
+  {
+    "suraNo": 33,
+    "ar": "سورة الأحزاب",
+    "en": "Al-Ahzab",
+    "bn": "আল-আহযাব",
+    "enMeaning": "The Clans, The Confederates, The Combined Forces",
+    "bnMeaning": "জোট",
+    "place": "মাদানী",
+    "totalAyat": 73
+  },
+  {
+    "suraNo": 34,
+    "ar": "سورة سبإ",
+    "en": "Saba",
+    "bn": "সাবা",
+    "enMeaning": "Queen Saba",
+    "bnMeaning": "রানী সাবা",
+    "place": "মাক্কী",
+    "totalAyat": 54
+  },
+  {
+    "suraNo": 35,
+    "ar": "سورة فاطر",
+    "en": "Fatir",
+    "bn": "ফাতির",
+    "enMeaning": "The Originator",
+    "bnMeaning": "আদি স্রষ্টা",
+    "place": "মাক্কী",
+    "totalAyat": 45
+  },
+  {
+    "suraNo": 36,
+    "ar": "سورة يس",
+    "en": "Ya-Sin",
+    "bn": "ইয়াসীন",
+    "enMeaning": "Ya-Sin",
+    "bnMeaning": "ইয়াসীন",
+    "place": "মাক্কী",
+    "totalAyat": 83
+  },
+  {
+    "suraNo": 37,
+    "ar": "سورة الصافات",
+    "en": "As-Saffat",
+    "bn": "আস-সাফফাত",
+    "enMeaning": "Those Who Set The Ranks, Drawn Up In Ranks, Those Ranged in Ranks",
+    "bnMeaning": "সারিবদ্ধভাবে দাড়ানো",
+    "place": "মাক্কী",
+    "totalAyat": 182
+  },
+  {
+    "suraNo": 38,
+    "ar": "سورة ص",
+    "en": "Ṣād",
+    "bn": "সোয়াদ",
+    "enMeaning": "Ṣād",
+    "bnMeaning": "আরবি বর্ণ",
+    "place": "মাক্কী",
+    "totalAyat": 88
+  },
+  {
+    "suraNo": 39,
+    "ar": "سورة الزمر",
+    "en": "Az-Zumar",
+    "bn": "আয-যুমার",
+    "enMeaning": "The Crowds, The Troops, Throngs",
+    "bnMeaning": "দল-বদ্ধ জনতা",
+    "place": "মাক্কী",
+    "totalAyat": 75
+  },
+  {
+    "suraNo": 40,
+    "ar": "سورة غافر",
+    "en": "Ghafir",
+    "bn": "গাফির (আল মু'মিন)",
+    "enMeaning": "The Forgiver (Allah), Forgiving",
+    "bnMeaning": "পরম ক্ষমাশীল (বিশ্বাসী)",
+    "place": "মাক্কী",
+    "totalAyat": 85
+  },
+  {
+    "suraNo": 41,
+    "ar": "سورة فصلت",
+    "en": "Fussilat",
+    "bn": "হা-মীম আস-সাজদা (ফুসসিলাত)",
+    "enMeaning": "Expounded, Explained In Detail, Clearly Spelled Out",
+    "bnMeaning": "সুস্পষ্ট বিবরণ",
+    "place": "মাক্কী",
+    "totalAyat": 54
+  },
+  {
+    "suraNo": 42,
+    "ar": "سورة الشورى",
+    "en": "Ash-Shura",
+    "bn": "আশ-শূরা",
+    "enMeaning": "The Consultation",
+    "bnMeaning": "পরামর্শ",
+    "place": "মাক্কী",
+    "totalAyat": 53
+  },
+  {
+    "suraNo": 43,
+    "ar": "سورة الزخرف",
+    "en": "Az-Zukhruf",
+    "bn": "আয-যুখরুফ",
+    "enMeaning": "The Gold Adornments, The Ornaments of Gold, Luxury, Gold",
+    "bnMeaning": "সোনাদানা",
+    "place": "মাক্কী",
+    "totalAyat": 89
+  },
+  {
+    "suraNo": 44,
+    "ar": "سورة الدخان",
+    "en": "Ad-Dukhan",
+    "bn": "আদ-দুখান",
+    "enMeaning": "The Smoke",
+    "bnMeaning": "ধোঁয়া",
+    "place": "মাক্কী",
+    "totalAyat": 59
+  },
+  {
+    "suraNo": 45,
+    "ar": "سورة الجاثية",
+    "en": "Al-Jathiya",
+    "bn": "আল-জাসিয়া",
+    "enMeaning": "The Kneeling Down, Crouching",
+    "bnMeaning": "নতজানু",
+    "place": "মাক্কী",
+    "totalAyat": 37
+  },
+  {
+    "suraNo": 46,
+    "ar": "سورة الأحقاف",
+    "en": "Al-Ahqaf",
+    "bn": "আল-আহকাফ",
+    "enMeaning": "Winding Sand-tracts, The Dunes, The Sand-Dunes",
+    "bnMeaning": "বালুর পাহাড়",
+    "place": "মাক্কী",
+    "totalAyat": 35
+  },
+  {
+    "suraNo": 47,
+    "ar": "سورة محمد",
+    "en": "Muhammad",
+    "bn": "মুহাম্মাদ",
+    "enMeaning": "Muhammad (Peace be upon him)",
+    "bnMeaning": "মুহাম্মদ (সা.)",
+    "place": "মাদানী",
+    "totalAyat": 38
+  },
+  {
+    "suraNo": 48,
+    "ar": "سورة الفتح",
+    "en": "Al-Fath",
+    "bn": "আল-ফাতহ",
+    "enMeaning": "The Victory, Conquest",
+    "bnMeaning": "বিজয় (মক্কা বিজয়)",
+    "place": "মাদানী",
+    "totalAyat": 29
+  },
+  {
+    "suraNo": 49,
+    "ar": "سورة الحجرات",
+    "en": "Al-Hujurat",
+    "bn": "আল-হুজুরাত",
+    "enMeaning": "The Private Apartments, The Inner Apartments",
+    "bnMeaning": "বাসগৃহসমূূহ",
+    "place": "মাদানী",
+    "totalAyat": 18
+  },
+  {
+    "suraNo": 50,
+    "ar": "سورة ق",
+    "en": "Qaf",
+    "bn": "কাফ",
+    "enMeaning": "Q̈āf",
+    "bnMeaning": "আরবি বর্ণ ক্বাফ",
+    "place": "মাক্কী",
+    "totalAyat": 45
+  },
+  {
+    "suraNo": 51,
+    "ar": "سورة الذاريات",
+    "en": "Adh-Dhariyat",
+    "bn": "আয-যারিয়াত",
+    "enMeaning": "The Wind That Scatter, The Winnowing Winds, The Dust-Scattering Winds",
+    "bnMeaning": "বিক্ষেপকারী বাতাস",
+    "place": "মাক্কী",
+    "totalAyat": 60
+  },
+  {
+    "suraNo": 52,
+    "ar": "سورة الطور",
+    "en": "At-Tur",
+    "bn": "আত-তূর",
+    "enMeaning": "The Mount, Mount Sinai",
+    "bnMeaning": "তূর পাহাড়",
+    "place": "মাক্কী",
+    "totalAyat": 49
+  },
+  {
+    "suraNo": 53,
+    "ar": "سورة النجم",
+    "en": "An-Najm",
+    "bn": "আন-নাজম",
+    "enMeaning": "The Star, The Unfolding",
+    "bnMeaning": "তারা",
+    "place": "মাক্কী",
+    "totalAyat": 62
+  },
+  {
+    "suraNo": 54,
+    "ar": "سورة القمر",
+    "en": "Al-Qamar",
+    "bn": "আল-কামার",
+    "enMeaning": "The Moon",
+    "bnMeaning": "চন্দ্র",
+    "place": "মাক্কী",
+    "totalAyat": 55
+  },
+  {
+    "suraNo": 55,
+    "ar": "سورة الرحمن",
+    "en": "Ar-Rahman",
+    "bn": "আর-রাহমান",
+    "enMeaning": "The Most Merciful, The Most Gracious",
+    "bnMeaning": "অনন্ত করুণাময়",
+    "place": "মাদানী",
+    "totalAyat": 78
+  },
+  {
+    "suraNo": 56,
+    "ar": "سورة الواقعة",
+    "en": "Al-Waqi'a",
+    "bn": "আল-ওয়াকিয়া",
+    "enMeaning": "The Inevitable, The Event, That Which Must Come to Pass",
+    "bnMeaning": "নিশ্চিত ঘটনা",
+    "place": "মাক্কী",
+    "totalAyat": 96
+  },
+  {
+    "suraNo": 57,
+    "ar": "سورة الحديد",
+    "en": "Al-Hadid",
+    "bn": "আল-হাদীদ",
+    "enMeaning": "The Iron",
+    "bnMeaning": "লোহা",
+    "place": "মাদানী",
+    "totalAyat": 29
+  },
+  {
+    "suraNo": 58,
+    "ar": "سورة المجادلة",
+    "en": "Al-Mujadila",
+    "bn": "আল-মুজাদালা",
+    "enMeaning": "The Pleading, The Pleading Woman",
+    "bnMeaning": "অনুযোগকারিণী",
+    "place": "মাদানী",
+    "totalAyat": 22
+  },
+  {
+    "suraNo": 59,
+    "ar": "سورة الحشر",
+    "en": "Al-Hashr",
+    "bn": "আল-হাশর",
+    "enMeaning": "The Mustering, The Gathering, Exile, Banishment",
+    "bnMeaning": "সমাবেশ",
+    "place": "মাদানী",
+    "totalAyat": 24
+  },
+  {
+    "suraNo": 60,
+    "ar": "سورة الممتحنة",
+    "en": "Al-Mumtahina",
+    "bn": "আল-মুমতাহিনা",
+    "enMeaning": "The Examined One, She That Is To Be Examined",
+    "bnMeaning": "নারী, যাকে পরীক্ষা করা হবে",
+    "place": "মাদানী",
+    "totalAyat": 13
+  },
+  {
+    "suraNo": 61,
+    "ar": "سورة الصف",
+    "en": "As-Saff",
+    "bn": "আস-সফ",
+    "enMeaning": "The Ranks, Battle Array",
+    "bnMeaning": "সারবন্দী সৈন্যদল",
+    "place": "মাদানী",
+    "totalAyat": 14
+  },
+  {
+    "suraNo": 62,
+    "ar": "سورة الجمعة",
+    "en": "Al-Jumu'a",
+    "bn": "আল-জুমু'আ",
+    "enMeaning": "Congregation, Friday",
+    "bnMeaning": "সম্মেলন/শুক্রবার",
+    "place": "মাদানী",
+    "totalAyat": 11
+  },
+  {
+    "suraNo": 63,
+    "ar": "سورة المنافقون",
+    "en": "Al-Munafiqun",
+    "bn": "আল-মুনাফিকূন",
+    "enMeaning": "The Hypocrites",
+    "bnMeaning": "কপট বিশ্বাসীগণ",
+    "place": "মাদানী",
+    "totalAyat": 11
+  },
+  {
+    "suraNo": 64,
+    "ar": "سورة التغابن",
+    "en": "At-Taghabun",
+    "bn": "আত-তাগাবুন",
+    "enMeaning": "The Cheating, The Mutual Disillusion, The Mutual Loss and Gain, Loss and Gain",
+    "bnMeaning": "মোহ অপসারণ",
+    "place": "মাদানী",
+    "totalAyat": 18
+  },
+  {
+    "suraNo": 65,
+    "ar": "سورة الطلاق",
+    "en": "At-Talaq",
+    "bn": "আত-ত্বলাক্ব",
+    "enMeaning": "Divorce",
+    "bnMeaning": "তালাক,বন্ধনমুক্তি",
+    "place": "মাদানী",
+    "totalAyat": 12
+  },
+  {
+    "suraNo": 66,
+    "ar": "سورة التحريم",
+    "en": "At-Tahrim",
+    "bn": "আত-তাহরীম",
+    "enMeaning": "The Prohibition",
+    "bnMeaning": "নিষিদ্ধকরণ",
+    "place": "মাদানী",
+    "totalAyat": 12
+  },
+  {
+    "suraNo": 67,
+    "ar": "سورة الملك",
+    "en": "Al-Mulk",
+    "bn": "আল-মুলক",
+    "enMeaning": "The Dominion, Sovereignty, Control",
+    "bnMeaning": "সার্বভৌম কর্তৃত্ব",
+    "place": "মাক্কী",
+    "totalAyat": 30
+  },
+  {
+    "suraNo": 68,
+    "ar": "سورة القلم",
+    "en": "Al-Qalam",
+    "bn": "আল-কলম",
+    "enMeaning": "The Pen",
+    "bnMeaning": "কলম",
+    "place": "মাক্কী",
+    "totalAyat": 52
+  },
+  {
+    "suraNo": 69,
+    "ar": "سورة الحاقة",
+    "en": "Al-Haqqa",
+    "bn": "আল-হাক্কাহ",
+    "enMeaning": "The Sure Reality, The Laying-Bare of the Truth",
+    "bnMeaning": "নিশ্চিত সত্য",
+    "place": "মাক্কী",
+    "totalAyat": 52
+  },
+  {
+    "suraNo": 70,
+    "ar": "سورة المعارج",
+    "en": "Al-Ma'arij",
+    "bn": "আল-মা'আরিজ",
+    "enMeaning": "The Ways of Ascent, The Ascending Stairways",
+    "bnMeaning": "উন্নয়নের সোপান",
+    "place": "মাক্কী",
+    "totalAyat": 44
+  },
+  {
+    "suraNo": 71,
+    "ar": "سورة نوح",
+    "en": "Nuh",
+    "bn": "নূহ",
+    "enMeaning": "Prophet Nuh",
+    "bnMeaning": "নূহ (আ.)",
+    "place": "মাক্কী",
+    "totalAyat": 28
+  },
+  {
+    "suraNo": 72,
+    "ar": "سورة الجن",
+    "en": "Al-Jinn",
+    "bn": "আল-জ্বিন",
+    "enMeaning": "The Jinn, The Spirits, The Unseen Beings",
+    "bnMeaning": "জ্বিন সম্প্রদায়",
+    "place": "মাক্কী",
+    "totalAyat": 28
+  },
+  {
+    "suraNo": 73,
+    "ar": "سورة المزمل",
+    "en": "Al-Muzzammil",
+    "bn": "আল-মুযযাম্মিল",
+    "enMeaning": "The Enfolded One, The Enshrouded One, Bundled Up, The Enwrapped One",
+    "bnMeaning": "বস্ত্র আচ্ছাদনকারী",
+    "place": "মাক্কী",
+    "totalAyat": 20
+  },
+  {
+    "suraNo": 74,
+    "ar": "سورة المدثر",
+    "en": "Al-Muddathir",
+    "bn": "আল-মুদ্দাসসির",
+    "enMeaning": "The cloaked one",
+    "bnMeaning": "পোশাক পরিহিত",
+    "place": "মাক্কী",
+    "totalAyat": 56
+  },
+  {
+    "suraNo": 75,
+    "ar": "سورة القيامة",
+    "en": "Al-Qiyama",
+    "bn": "আল-ক্বিয়ামাহ",
+    "enMeaning": "Resurrection, The Day of Resurrection, Rising Of The Dead",
+    "bnMeaning": "পুনরুত্থান",
+    "place": "মাক্কী",
+    "totalAyat": 40
+  },
+  {
+    "suraNo": 76,
+    "ar": "سورة الانسان",
+    "en": "Al-Insan",
+    "bn": "আল-ইনসান (আদ-দাহর)",
+    "enMeaning": "The Human, Man",
+    "bnMeaning": "মানুষ",
+    "place": "মাদানী",
+    "totalAyat": 31
+  },
+  {
+    "suraNo": 77,
+    "ar": "سورة المرسلات",
+    "en": "Al-Mursalat",
+    "bn": "আল-মুরসালাত",
+    "enMeaning": "Those Sent Forth, The Emissaries, Winds Sent Forth",
+    "bnMeaning": "প্রেরিত পুরুষবৃন্দ",
+    "place": "মাক্কী",
+    "totalAyat": 50
+  },
+  {
+    "suraNo": 78,
+    "ar": "سورة النبإ",
+    "en": "An-Naba'",
+    "bn": "আন-নাবা",
+    "enMeaning": "The Great News, The Announcement, The Tiding",
+    "bnMeaning": "মহাসংবাদ",
+    "place": "মাক্কী",
+    "totalAyat": 40
+  },
+  {
+    "suraNo": 79,
+    "ar": "سورة النازعات",
+    "en": "An-Nazi'at",
+    "bn": "আন-নাযি'আত",
+    "enMeaning": "Those Who Tear Out, Those Who Drag Forth, Soul-snatchers, Those That Rise",
+    "bnMeaning": "প্রচেষ্টাকারী",
+    "place": "মাক্কী",
+    "totalAyat": 46
+  },
+  {
+    "suraNo": 80,
+    "ar": "سورة عبس",
+    "en": "Abasa",
+    "bn": "আবাসা",
+    "enMeaning": "He Frowned",
+    "bnMeaning": "তিনি ভ্রুকুটি করলেন",
+    "place": "মাক্কী",
+    "totalAyat": 42
+  },
+  {
+    "suraNo": 81,
+    "ar": "سورة التكوير",
+    "en": "At-Takwir",
+    "bn": "আত-তাকভীর",
+    "enMeaning": "The Folding Up, The Overthrowing, Shrouding in Darkness",
+    "bnMeaning": "অন্ধকারাচ্ছন্ন",
+    "place": "মাক্কী",
+    "totalAyat": 29
+  },
+  {
+    "suraNo": 82,
+    "ar": "سورة الإنفطار",
+    "en": "Al-Infitar",
+    "bn": "আল-ইনফিতার",
+    "enMeaning": "The Cleaving Asunder, Bursting Apart",
+    "bnMeaning": "বিদীর্ণ করা",
+    "place": "মাক্কী",
+    "totalAyat": 19
+  },
+  {
+    "suraNo": 83,
+    "ar": "سورة المطففين",
+    "en": "Al-Mutaffifin",
+    "bn": "আল-মুতাফফিফীন",
+    "enMeaning": "The Dealers in Fraud, Defrauding, The Cheats, Those Who Give Short Measure",
+    "bnMeaning": "প্রতারকগণ",
+    "place": "মাক্কী",
+    "totalAyat": 36
+  },
+  {
+    "suraNo": 84,
+    "ar": "سورة الإنشقاق",
+    "en": "Al-Inshiqaq",
+    "bn": "আল-ইনশিকাক",
+    "enMeaning": "The Rending Asunder, The Sundering, Splitting Open, The Splitting Asunder",
+    "bnMeaning": "খন্ড-বিখন্ড করণ",
+    "place": "মাক্কী",
+    "totalAyat": 25
+  },
+  {
+    "suraNo": 85,
+    "ar": "سورة البروج",
+    "en": "Al-Buruj",
+    "bn": "আল-বুরুজ",
+    "enMeaning": "The Mansions Of The Stars, The Constellations, The Great Constellations",
+    "bnMeaning": "নক্ষত্রপুঞ্জ",
+    "place": "মাক্কী",
+    "totalAyat": 22
+  },
+  {
+    "suraNo": 86,
+    "ar": "سورة الطارق",
+    "en": "At-Tariq",
+    "bn": "আত-তারিক",
+    "enMeaning": "The Night-Visitant, The Morning Star, The Nightcomer, That Which Comes in the Night",
+    "bnMeaning": "রাতের আগন্তুক",
+    "place": "মাক্কী",
+    "totalAyat": 17
+  },
+  {
+    "suraNo": 87,
+    "ar": "سورة الأعلى",
+    "en": "Al-A'la",
+    "bn": "আল-আ'লা",
+    "enMeaning": "The Most High, The All-Highest, Glory To Your Lord In The Highest",
+    "bnMeaning": "সর্বোর্ধ্ব",
+    "place": "মাক্কী",
+    "totalAyat": 19
+  },
+  {
+    "suraNo": 88,
+    "ar": "سورة الغاشية",
+    "en": "Al-Ghashiya",
+    "bn": "আল-গাশিয়া",
+    "enMeaning": "The Overwhelming Event, The Overshadowing Event, The Pall",
+    "bnMeaning": "বিহ্বলকর ঘটনা",
+    "place": "মাক্কী",
+    "totalAyat": 26
+  },
+  {
+    "suraNo": 89,
+    "ar": "سورة الفجر",
+    "en": "Al-Fajr",
+    "bn": "আল-ফাজর",
+    "enMeaning": "The Break of Day, The Daybreak, The Dawn",
+    "bnMeaning": "ভোরবেলা",
+    "place": "মাক্কী",
+    "totalAyat": 30
+  },
+  {
+    "suraNo": 90,
+    "ar": "سورة البلد",
+    "en": "Al-Balad",
+    "bn": "আল-বালাদ",
+    "enMeaning": "The City, The Land",
+    "bnMeaning": "নগর/শহর",
+    "place": "মাক্কী",
+    "totalAyat": 20
+  },
+  {
+    "suraNo": 91,
+    "ar": "سورة الشمس",
+    "en": "Ash-Shams",
+    "bn": "আশ-শামস",
+    "enMeaning": "The Sun",
+    "bnMeaning": "সূর্য্য",
+    "place": "মাক্কী",
+    "totalAyat": 15
+  },
+  {
+    "suraNo": 92,
+    "ar": "سورة الليل",
+    "en": "Al-Lail",
+    "bn": "আল-লাইল",
+    "enMeaning": "The Night",
+    "bnMeaning": "রাত্রি",
+    "place": "মাক্কী",
+    "totalAyat": 21
+  },
+  {
+    "suraNo": 93,
+    "ar": "سورة الضحى",
+    "en": "Ad-Dhuha",
+    "bn": "আদ-দুহা",
+    "enMeaning": "The Glorious Morning Light, The Forenoon, Morning Hours, Morning Bright, The Bright Morning Hours",
+    "bnMeaning": "পূর্বাহ্নের সূর্যকিরণ",
+    "place": "মাক্কী",
+    "totalAyat": 11
+  },
+  {
+    "suraNo": 94,
+    "ar": "سورة الشرح",
+    "en": "Ash-Sharh",
+    "bn": "আল-ইনশিরাহ",
+    "enMeaning": "The Expansion of Breast, Solace, Consolation, Relief, Patient, The Opening-Up of the Heart",
+    "bnMeaning": "বক্ষ প্রশস্তকরণ",
+    "place": "মাক্কী",
+    "totalAyat": 8
+  },
+  {
+    "suraNo": 95,
+    "ar": "سورة التين",
+    "en": "At-Tin",
+    "bn": "আত-ত্বীন",
+    "enMeaning": "The Fig Tree, The Fig",
+    "bnMeaning": "ত্বীন ফল",
+    "place": "মাক্কী",
+    "totalAyat": 8
+  },
+  {
+    "suraNo": 96,
+    "ar": "سورة العلق",
+    "en": "Al-Alaq",
+    "bn": "আল-আলাক",
+    "enMeaning": "The Clinging Clot, Clot of Blood, The Germ-Cell",
+    "bnMeaning": "রক্তপিন্ড",
+    "place": "মাক্কী",
+    "totalAyat": 19
+  },
+  {
+    "suraNo": 97,
+    "ar": "سورة القدر",
+    "en": "Al-Qadr",
+    "bn": "আল-কাদর",
+    "enMeaning": "The Night of Honor, The Night of Decree, Power, Fate, Destiny",
+    "bnMeaning": "পরিমাণ",
+    "place": "মাক্কী",
+    "totalAyat": 5
+  },
+  {
+    "suraNo": 98,
+    "ar": "سورة البينة",
+    "en": "Al-Bayyina",
+    "bn": "আল-বায়্যিনাহ",
+    "enMeaning": "The Clear Evidence, The Evidence of the Truth",
+    "bnMeaning": "সুস্পষ্ট প্রমাণ",
+    "place": "মাদানী",
+    "totalAyat": 8
+  },
+  {
+    "suraNo": 99,
+    "ar": "سورة الزلزلة",
+    "en": "Az-Zalzala",
+    "bn": "আয-যিলযাল",
+    "enMeaning": "The Earthquake",
+    "bnMeaning": "ভূমিকম্প",
+    "place": "মাদানী",
+    "totalAyat": 8
+  },
+  {
+    "suraNo": 100,
+    "ar": "سورة العاديات",
+    "en": "Al-Adiyat",
+    "bn": "আল-আদিয়াত",
+    "enMeaning": "The Courser, The Chargers, The War Horse",
+    "bnMeaning": "অভিযানকারী",
+    "place": "মাক্কী",
+    "totalAyat": 11
+  },
+  {
+    "suraNo": 101,
+    "ar": "سورة القارعة",
+    "en": "Al-Qari'a",
+    "bn": "আল-কারি'আ",
+    "enMeaning": "The Striking Hour, The Great Calamity, The Stunning Blow, The Sudden Calamity",
+    "bnMeaning": "মহাসংকট",
+    "place": "মাক্কী",
+    "totalAyat": 11
+  },
+  {
+    "suraNo": 102,
+    "ar": "سورة التكاثر",
+    "en": "At-Takathur",
+    "bn": "আত-তাকাসুর",
+    "enMeaning": "The Piling Up, Rivalry in World Increase, Competition, Greed for More and More",
+    "bnMeaning": "প্রাচুর্য্যের প্রতিযোগিতা",
+    "place": "মাক্কী",
+    "totalAyat": 8
+  },
+  {
+    "suraNo": 103,
+    "ar": "سورة العصر",
+    "en": "Al-Asr",
+    "bn": "আল-আসর",
+    "enMeaning": "The Time, The Declining Day, The Epoch, The Flight of Time",
+    "bnMeaning": "অপরাহ্ন",
+    "place": "মাক্কী",
+    "totalAyat": 3
+  },
+  {
+    "suraNo": 104,
+    "ar": "سورة الهمزة",
+    "en": "Al-Humaza",
+    "bn": "আল-হুমাযা",
+    "enMeaning": "The Scandalmonger, The Traducer, The Gossipmonger, The Slanderer",
+    "bnMeaning": "পরনিন্দাকারী",
+    "place": "মাক্কী",
+    "totalAyat": 9
+  },
+  {
+    "suraNo": 105,
+    "ar": "سورة الفيل",
+    "en": "Al-Fil",
+    "bn": "আল-ফীল",
+    "enMeaning": "The Elephant",
+    "bnMeaning": "হাতি",
+    "place": "মাক্কী",
+    "totalAyat": 5
+  },
+  {
+    "suraNo": 106,
+    "ar": "سورة قريش",
+    "en": "Quraysh",
+    "bn": "আল-কুরাইশ",
+    "enMeaning": "The Quraysh",
+    "bnMeaning": "কুরাইশ গোত্র",
+    "place": "মাক্কী",
+    "totalAyat": 4
+  },
+  {
+    "suraNo": 107,
+    "ar": "سورة الماعون",
+    "en": "Al-Ma'un",
+    "bn": "আল-মাঊন",
+    "enMeaning": "The Neighbourly Assistance, Small Kindnesses, Almsgiving, Assistance",
+    "bnMeaning": "সাহায্য-সহায়তা",
+    "place": "মাক্কী",
+    "totalAyat": 7
+  },
+  {
+    "suraNo": 108,
+    "ar": "سورة الكوثر",
+    "en": "Al-Kawthar",
+    "bn": "আল-কাউসার",
+    "enMeaning": "Abundance, Plenty, Good in Abundance",
+    "bnMeaning": "প্রাচুর্য",
+    "place": "মাক্কী",
+    "totalAyat": 3
+  },
+  {
+    "suraNo": 109,
+    "ar": "سورة الكافرون",
+    "en": "Al-Kafirun",
+    "bn": "কাফিরুন",
+    "enMeaning": "The Disbelievers, The Kuffar, Those Who Deny the Truth",
+    "bnMeaning": "অস্বীকারকারীগণ",
+    "place": "মাক্কী",
+    "totalAyat": 6
+  },
+  {
+    "suraNo": 110,
+    "ar": "سورة النصر",
+    "en": "An-Nasr",
+    "bn": "আন-নাসর",
+    "enMeaning": "The Help, Divine Support, Victory, Succour",
+    "bnMeaning": "বিজয়,সাহায্য",
+    "place": "মাদানী",
+    "totalAyat": 3
+  },
+  {
+    "suraNo": 111,
+    "ar": "سورة المسد",
+    "en": "Al-Masad",
+    "bn": "আল-মাসাদ (লাহাব)",
+    "enMeaning": "The Plaited Rope, The Palm Fibre, The Twisted Strands",
+    "bnMeaning": "জ্বলন্ত অঙ্গার",
+    "place": "মাক্কী",
+    "totalAyat": 5
+  },
+  {
+    "suraNo": 112,
+    "ar": "سورة الإخلاص",
+    "en": "Al-Ikhlas",
+    "bn": "আল-ইখলাস",
+    "enMeaning": "Purity of Faith, The Fidelity, The Declaration of [God's] Perfection",
+    "bnMeaning": "একনিষ্ঠতা",
+    "place": "মাক্কী",
+    "totalAyat": 4
+  },
+  {
+    "suraNo": 113,
+    "ar": "سورة الفلق",
+    "en": "Al-Falaq",
+    "bn": "আল-ফালাক",
+    "enMeaning": "The Daybreak, Dawn, The Rising Dawn",
+    "bnMeaning": "নিশিভোর",
+    "place": "মাক্কী",
+    "totalAyat": 5
+  },
+  {
+    "suraNo": 114,
+    "ar": "سورة الناس",
+    "en": "An-Nas",
+    "bn": "আন-নাস",
+    "enMeaning": "Mankind, Men",
+    "bnMeaning": "মানবজাতি",
+    "place": "মাক্কী",
+    "totalAyat": 6
+  }
+]
